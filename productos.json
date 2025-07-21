@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lapiz",
+        "precio": 1100,
+        "cantidad": 25
+    },
+    {
+        "id": 2,
+        "nombre": "Lapicero negro",
+        "precio": 1200,
+        "cantidad": 45
+    },
+    {
+        "id": 3,
+        "nombre": "Lapicero rojo",
+        "precio": 1200,
+        "cantidad": 36
+    },
+    {
+        "id": 4,
+        "nombre": "Borrador",
+        "precio": 800,
+        "cantidad": 14
+    },
+    {
+        "id": 5,
+        "nombre": "Sacapunta",
+        "precio": 1000,
+        "cantidad": 85
+    },
+    {
+        "id": 6,
+        "nombre": "Cuaderno",
+        "precio": 4500,
+        "cantidad": 47
+    },
+    {
+        "id": 7,
+        "nombre": "Carpeta",
+        "precio": 7000,
+        "cantidad": 36
+    },
+    {
+        "id": 8,
+        "nombre": "Cartuchera",
+        "precio": 18000,
+        "cantidad": 11
+    },
+    {
+        "id": 9,
+        "nombre": "Cinta",
+        "precio": 4000,
+        "cantidad": 25
+    },
+    {
+        "id": 10,
+        "nombre": "C 5 materias",
+        "precio": 25000,
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "liquid paper",
+        "precio": 2000.0,
+        "cantidad": 3
+    }
+]

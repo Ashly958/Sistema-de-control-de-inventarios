@@ -1,0 +1,89 @@
+[
+    {
+        "items": [
+            {
+                "nombre": "Lapicero negro",
+                "precio": 1000,
+                "cantidad": 1
+            }
+        ],
+        "total": 1000,
+        "fecha": "2025-05-31 15:43:28"
+    },
+    {
+        "items": [
+            {
+                "nombre": "Borrador",
+                "precio": 800,
+                "cantidad": 1
+            }
+        ],
+        "total": 800,
+        "fecha": "2025-06-08 03:14:26"
+    },
+    {
+        "items": [
+            {
+                "nombre": "Sacapunta",
+                "precio": 1000,
+                "cantidad": 1
+            }
+        ],
+        "total": 1000,
+        "fecha": "2025-06-08 03:19:14"
+    },
+    {
+        "items": [
+            {
+                "nombre": "Lapiz",
+                "precio": 1100,
+                "cantidad": 2
+            },
+            {
+                "nombre": "Lapiz",
+                "precio": 1100,
+                "cantidad": 2
+            }
+        ],
+        "total": 4400,
+        "fecha": "2025-06-08 08:55:19"
+    },
+    {
+        "items": [
+            {
+                "nombre": "Lapicero negro",
+                "precio": 1200,
+                "cantidad": 3
+            },
+            {
+                "nombre": "Lapiz",
+                "precio": 1100,
+                "cantidad": 1
+            }
+        ],
+        "total": 4700,
+        "fecha": "2025-06-08 10:19:34"
+    },
+    {
+        "items": [
+            {
+                "nombre": "Lapiz",
+                "precio": 1100,
+                "cantidad": 1
+            }
+        ],
+        "total": 1100,
+        "fecha": "2025-06-08 10:19:45"
+    },
+    {
+        "items": [
+            {
+                "nombre": "Sacapunta",
+                "precio": 1000,
+                "cantidad": 10
+            }
+        ],
+        "total": 10000,
+        "fecha": "2025-06-08 11:16:00"
+    }
+]
